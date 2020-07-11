@@ -1,4 +1,4 @@
-### Hi there 👋
+### I don't like this feature.
 
 <!--
 **akshgpt7/akshgpt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
